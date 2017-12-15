@@ -4,18 +4,19 @@
 *************
 
 ### Goals
-I don't want to lose the momentum I built while attending Epicodus. Above all the program has taught me how to organize my time as I work through coding challenges, and when and where to seek resources for solving problems. Moving forward, I would
+I don't want to lose the momentum I built while attending Epicodus. Moving forward it is very important to me that I keep to daily schedule that includes both writing code and working on creative projects. I want to build an online presence for myself that showcases both my creative work and my technical skills. I plan to approach my continued self-study with this in mind, and to focus on becoming more comfortable with JavaScript and JavaScript frameworks.
 
-_Current Priorities:_
+> **Current Priorities:**
 - Job Hunt
 - Coding self-study
 - UX/UI self-study
 - Design portfolio
 
+
 ***************************
 #### How I plan to organize a typical work-day:
 
-Of course the amount of time I devote each day to a specific task will vary depending on deadlines, interview opportunities and other things that arise, I want to stick to this basic schedule most of the time.
+One of the most important things I learned at Epicodus was how to work through challenges, sitting with a problem for a while and working through it. With this in mind, I want to structure my days to include designated time to focus on my goals. The amount of time I devote each day to a specific task will vary depending on deadlines, interview opportunities and other priorities that arise. Some days I might want to spend the whole day on a coding challenge for example. The schedule below is a guide that I plan to stick to most of the time, particularly on days when I am not working on a longer project.
 
 **6am**
 
@@ -23,15 +24,15 @@ Of course the amount of time I devote each day to a specific task will vary depe
 
 **8am - 10am**
 
-> **Code** - spend _at least_ the first two hours of the day on coding challenges, tutorials, readings, and projects.
+> **Code** - spend _at least_ the first two hours of the day on coding challenges, tutorials, readings, and projects. I know mornings are the best time for me to learn technical concepts so I want to start each day here.
 
 **10am - 12n**
 
-> **Job applications** - apply to jobs and follow up on previous applications, reach out to contacts on LinkedIn, set up informational interviews, research companies, and any other job-search related activities.
+> **Job applications** - apply to jobs and follow up on previous applications, reach out to contacts on LinkedIn, request informational interviews, research companies, and perform any other job-search related activities.
 
 **1pm - 3pm**
 
-> **Design Portfolio** - work on my design portfolio, both digital and otherwise.
+> **Design Portfolio** - work on my design portfolio, for both web development and graphic design.
 
 **3pm - 5pm**
 
@@ -57,4 +58,6 @@ Of course the amount of time I devote each day to a specific task will vary depe
 15. Take math classes at PCC
 16. Reach out to Elyse about projects with the ACLU
 17. Read "Learn Python the Hard Way"
-18.
+18. Reach out to/keep in touch with potential mentors.
+19. Attend at least one meetup per week, in addition to Mentorship Saturdays
+20. Set up and actively update my [blog](https://medium.com/@spinkbot "Sara on Medium")
