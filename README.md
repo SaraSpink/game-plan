@@ -7,10 +7,10 @@
 I don't want to lose the momentum I built while attending Epicodus. Moving forward it is very important to me that I keep to daily schedule that includes both writing code and working on creative projects. I want to build an online presence for myself that showcases both my creative work and my technical skills. I plan to approach my continued self-study with this in mind, and to focus on becoming more comfortable with JavaScript and JavaScript frameworks.
 
 > **Current Priorities:**
-- Job Hunt
-- Coding self-study
-- UX/UI self-study
-- Design portfolio
+> - Job Hunt
+> - Coding self-study
+> - UX/UI self-study
+> - Design portfolio
 
 
 ***************************
