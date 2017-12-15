@@ -14,24 +14,40 @@ _Current Priorities:_
 
 #### How I plan to organize a typical work-day:
 
-    **6am**
-    **8am - 10am**
-    **10am - 12n**
+Of course the amount of time I devote each day to a specific task will vary depending on deadlines, interview opportunities and other things that arise, I want to stick to this basic schedule most of the time.
 
-    **1pm - 3pm**
-    **3pm - 6pm**
+**6am**
+
+Focus on wellness - exercise, meditation, etc.
+
+**8am - 10am**
+
+Code time - spend the first two hours of the "work day" on coding challenges, tutorials, readings, and projects.
+
+**10am - 12n**
+
+Job application time - update application and portfolio materials, send in applications and follow up with potential employers.
+
+**1pm - 3pm**
+
+Design Portfolio time - work on my design portfolio, both digital and otherwise.
+
+**3pm - 5pm**
+
+Design Technical time - tutorials and practice with design software, learning UX/UI concepts, working on my social media presence, etc.
 
 ### Specific intentions:
 #### High Priority:
-    - Coding syntax / understanding of core concepts
-    - Ability to articulate myself about my code
-    - Patience (with the process and with myself)
-    - Focus
+    - Portfolio
+    - Online presence
+    - Triceratops
+    - Reaching out to collaborators
+
 
 #### Medium Priority:
-    - Clarify my direction. What do I want to do with this knowledge?
-    - Figure out what I want to build
-    - Figure out what tools/skills I will need
+    - Meetups
+    - Reading
+    
 
 #### Low Priority
     -
