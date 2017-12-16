@@ -61,3 +61,8 @@ One of the most important things I learned at Epicodus was how to work through c
 18. Reach out to/keep in touch with potential mentors.
 19. Attend at least one meetup per week, in addition to Mentorship Saturdays
 20. Set up and actively update my [blog](https://medium.com/@spinkbot "Sara on Medium")
+
+***************************
+
+### Capstone
+Check out my progress on my capstone project, ["Ink About It"](https://github.com/SaraSpink/ink-about-it.git), a Web-Comic publishing platform. While there are a few publishing platforms already out there, my goal is to create a web application designed for this purpose that is easy to use and which boasts a simple yet attractive user interface.
